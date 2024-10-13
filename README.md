@@ -1,16 +1,16 @@
-## Hi there 👋
+# CryptoFx SK Falcon
 
-<!--
-**cryptofxskfalcon/cryptofxskfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CryptoFx SK Falcon offers expert trading analysis using harmonic patterns for forex and cryptocurrency markets. 
 
-Here are some ideas to get you started:
+Stay updated with our in-depth forex and crypto insights. Join our Telegram VIP channel at [@cryptofx_sk_falcon_bot](https://t.me/cryptofx_sk_falcon_bot) for exclusive signals and elevate your trading experience with us today!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- Expert analysis using harmonic patterns.
+- Regular updates on forex and crypto markets.
+- Access to a VIP Telegram channel for signals.
+
+## Getting Started
+You can view the site by visiting: [https://cryptofxskfalcon.pages.dev](https://cryptofxskfalcon.pages.dev).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
